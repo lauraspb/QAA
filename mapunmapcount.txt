@@ -1,0 +1,7 @@
+#mapped, unmapped
+
+python PS8p2.py -f aligned_1_Aligned.out.sam 
+15385128 549596
+
+python PS8p2.py -f aligned_24_Aligned.out.sam 
+19694490 797816
